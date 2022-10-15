@@ -1,5 +1,5 @@
 # Desafio de Projeto sobre Git/GitHub
-Desafio que consiste em criar um projeto usando Git/GitHub
+Desafio que consiste em criar um repositório usando Git/GitHub para organizar os estudos realizados através da plataforma da Digital Innovation One (DIO).
 
 ## Links úteis
 - [Digital Innovation One - DIO](https://www.dio.me/)
